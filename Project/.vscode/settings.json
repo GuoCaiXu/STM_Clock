@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "bsp_delay.h": "c",
+        "bsp_tim.h": "c",
+        "stm32f10x.h": "c",
+        "bsp_clock.h": "c",
+        "bsp_key.h": "c",
+        "misc.h": "c",
+        "bsp_led.h": "c"
+    }
+}
